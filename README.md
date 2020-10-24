@@ -10,8 +10,8 @@ the stock performance of the parent company owning that product.
 
 **References:**
 
-Historical data for Netflix stocks downloaded from: 
+- Historical data for Netflix stocks downloaded from:
 https://www.nasdaq.com/market-activity/stocks/nflx/historical
 
-Google Trends data for Stranger Things downloaded from:
+- Google Trends data for Stranger Things downloaded from:
 https://trends.google.com/trends/explore?date=2019-01-01%202019-12-31&geo=US&q=%2Fm%2F0131ln7y
