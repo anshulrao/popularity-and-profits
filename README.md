@@ -4,13 +4,13 @@ This is a research project focusing mainly on the relationship between transient
 
 1. Netflix and Stranger Things - Are Netflix stock prices impacted around the release date of this popular original show of theirs?
 
-    *PRODUCT* :: **Stranger Things** is an extremely popular and successful Netlix series.
+    *PRODUCT* :: **Stranger Things** is an extremely popular and successful Netflix series.
 
-    *COMPANY* : **Netflix** offers online streaming of a library of films and television series, including those produced in-house and Stranger Things is one them.
+    *COMPANY* : **Netflix** offers online streaming of a library of films and television series, including those produced in-house, and Stranger Things is one them.
 
-2. BTS and Nongshim - BTS is big and currently responsible for spreading Korean culture globally. Nongshim's Shin Ramyun noodles (the most popular instant noodles in South Korea) can now be seen in Indian supermarkets too, thanks to the Hallyu wave. Could it be that BTS's search interest on Google somehow correlate to Nongshim's stock market performance?
+2. BTS and Nongshim - BTS is a very popular boy band and because of their massive following they have have been spreading Korean culture globally. Like Nongshim's Shin Ramyun noodles (the most popular instant noodles in South Korea) can now be seen in Indian supermarkets too, thanks to the Hallyu wave. Could it be that BTS's search interest on Google somehow correlate to Nongshim's stock market performance?
 
-    *PRODUCT* :: **BTS** is a product from S. Korea that in turn has involuntarily promoted a range of Korean products, one of them being instant ramen noodles.
+    *PRODUCT* :: **BTS** is a "product" from S. Korea that in turn has voluntarily/involuntarily promoted a range of Korean products, one of them being instant ramen noodles.
 
     *COMPANY* :: **Nongshim** is a S. Korean food and beverage company headquartered in Seoul, South Korea. Apart from other things, it produces Shin Ramyun, S. Korea's most popular ramyun brand. 
 
