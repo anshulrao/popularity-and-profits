@@ -14,7 +14,7 @@ This is a minor research project focusing mainly on the relationship between tra
 
 `Netflix` offers online streaming of a library of films and television series, including those produced in-house. (`Stranger Things` is one their originals).
     
- ##### Summary
+ #### Summary
  - I analyzed the stock performance (basically the close price variations) of Netflix to pick out any glaring price fluctuations that happened.
  - I then looked at the Google trends data for Stranger Things to locate the time periods when search interest was high.
  - I then compared both of the above to see if the time period of extreme price fluctuations collided with time period of high search interest.
@@ -35,7 +35,7 @@ Could it be that BTS's search interest on Google somehow correlates to Nongshim'
 
 `Nongshim` is a S. Korean food and beverage company headquartered in Seoul, South Korea. Apart from other things, it produces Shin Ramyun, S. Korea's most popular ramyun brand. 
 
-##### Summary
+#### Summary
 - I downloaded both the stock data for Nongshim and search interest data for BTS.
 - I then built a Linear Regression model. I used half the data to train the model and then predicted the remaining half using the model.
 
