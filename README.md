@@ -1,6 +1,6 @@
 # Popularity and Profits
 
-This is a minor research project focusing mainly on the relationship between transient popularity of a product (achieved in any form like social media views, advertising, etc.) and the stock performance of the parent company owning that product.
+A minor research project focusing mainly on the relationship between transient popularity of a product (achieved in any form like social media views, advertising, etc.) and the stock performance of the parent company owning that product.
 
 ## Netflix and Stranger Things ([Notebook](https://github.com/anshulrao/popularity-and-profits/blob/master/code/Netflix%20and%20Stranger%20Things.ipynb))
 
