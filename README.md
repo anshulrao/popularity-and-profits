@@ -47,3 +47,10 @@ Link | Description
 [trends.google.com](https://trends.google.com/trends/explore?date=2019-01-01%202019-12-31&geo=US&q=%2Fm%2F0131ln7y) | Google Trends data for Stranger Things
 [finance.yahoo.com](https://finance.yahoo.com/quote/004370.KS/history?period1=1543622400&period2=1601424000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true) | Historical data for Nongshim stocks
 [trends.google.com](https://trends.google.com/trends/explore?date=2018-12-01%202020-09-30&q=%2Fm%2F0w68qx3) | Google Trends data for BTS
+
+<br>
+<br>
+
+**IMPORTANT NOTE**: If the notebooks are not loading in github then,
+1. Open https://nbviewer.jupyter.org/ 
+2. Paste the link to the notebook (for e.g. https://github.com/anshulrao/popularity-and-profits/blob/master/code/Netflix%20and%20Stranger%20Things.ipynb) there. 
