@@ -2,7 +2,7 @@
 
 A minor research project focusing mainly on the relationship between transient popularity of a product (achieved in any form like social media views, advertising, etc.) and the stock performance of the parent company owning that product.
 
-## Netflix and Stranger Things ([Notebook](https://github.com/anshulrao/popularity-and-profits/blob/master/code/Netflix%20and%20Stranger%20Things.ipynb))
+## Netflix and Stranger Things ([Notebook](https://nbviewer.jupyter.org/github/anshulrao/popularity-and-profits/blob/master/code/Netflix%20and%20Stranger%20Things.ipynb))
 
 *Are Netflix stock prices impacted around the release date of this popular original show of theirs?*
 
@@ -21,7 +21,7 @@ A minor research project focusing mainly on the relationship between transient p
  - I compared the time periods of extreme price fluctuations and of high search interest to see if they both collided.
 
 
-## BTS and Nongshim ([Notebook](https://github.com/anshulrao/popularity-and-profits/blob/master/code/BTS%20and%20Nongshim.ipynb))
+## BTS and Nongshim ([Notebook](https://nbviewer.jupyter.org/github/anshulrao/popularity-and-profits/blob/master/code/BTS%20and%20Nongshim.ipynb))
 
 *BTS is a very popular boy band and because of their massive following they have have been spreading Korean culture globally. For example, Nongshim's Shin Ramyun noodles (the most popular instant noodles in South Korea) can now be seen in Indian supermarkets too, thanks to the Hallyu wave.
 Could it be that BTS's search interest on Google somehow correlates to Nongshim's stock market performance?*
