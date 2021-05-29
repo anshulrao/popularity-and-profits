@@ -16,8 +16,9 @@ A minor research project focusing mainly on the relationship between transient p
     
  #### Summary
  - I analyzed the stock performance (basically the close price variations) of Netflix to pick out any glaring price fluctuations that happened.
- - I then looked at the Google trends data for Stranger Things to locate the time periods when search interest was high.
- - I then compared both of the above to see if the time period of extreme price fluctuations collided with time period of high search interest.
+ - The price fluctuations were normally distributed, which was as expected. So I actually focussed on outliers (very high or low fluctuations) and tried explaining them via search interest trends.
+ - I looked at the Google trends data for Stranger Things to locate the time periods when search interest was high.
+ - I compared the time periods of extreme price fluctuations and of high search interest to see if they both collided.
 
 
 ## BTS and Nongshim ([Notebook](https://github.com/anshulrao/popularity-and-profits/blob/master/code/BTS%20and%20Nongshim.ipynb))
@@ -37,7 +38,10 @@ Could it be that BTS's search interest on Google somehow correlates to Nongshim'
 
 #### Summary
 - I downloaded both the stock data for Nongshim and search interest data for BTS.
+- I first carried out exploratory data analysis and plotted simple moving averages and other plots to visualize the reltionship between close price of Nongshim and search interest of BTS.
+- Seeing apprarent correlation, I did hypothesis testing (null hypothesis: close price of Nongshim and search interest of BTS are uncorrelated) on Pearson correlation coefficient and obtained a p-value of 0. Thus, the null hypothesis was rejected, and the correlation was confirmed to be noncoincidental.
 - I then built a Linear Regression model. I used half the data to train the model and then predicted the remaining half using the model.
+- I also tried bootstrapping by generating replicates of slope and intercept and plotted them.
 
 ### Data Sources
 
