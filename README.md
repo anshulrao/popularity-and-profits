@@ -21,14 +21,14 @@ Could it be that BTS's search interest on Google somehow correlates to Nongshim'
 - I downloaded both the stock data for Nongshim and search interest data for BTS.
 - I first carried out exploratory data analysis and plotted simple moving averages and other plots to visualize the reltionship between close price of Nongshim and search interest of BTS.
 
-![](https://user-images.githubusercontent.com/31268509/122205680-284a5400-cebe-11eb-89cf-bea8a1149fc5.png)
+    ![](https://user-images.githubusercontent.com/31268509/122205680-284a5400-cebe-11eb-89cf-bea8a1149fc5.png)
 - Seeing apprarent correlation, I did hypothesis testing (null hypothesis: close price of Nongshim and search interest of BTS are uncorrelated) on Pearson correlation coefficient and obtained a p-value of 0. Thus, the null hypothesis was rejected, and the correlation was confirmed to be noncoincidental.
 - I then built a Linear Regression model. I used 70 percent the data to train the model and then predicted the remaining using the model.
 
-![](https://user-images.githubusercontent.com/31268509/122206039-8ecf7200-cebe-11eb-80c5-016983ec6af3.png)
+    ![](https://user-images.githubusercontent.com/31268509/122206039-8ecf7200-cebe-11eb-80c5-016983ec6af3.png)
 - I also tried bootstrapping by generating replicates of slope and intercept and plotted them.
 
-![](https://user-images.githubusercontent.com/31268509/122206487-0d2c1400-cebf-11eb-971b-a34fb41c9f97.png)
+    ![](https://user-images.githubusercontent.com/31268509/122206487-0d2c1400-cebf-11eb-971b-a34fb41c9f97.png)
 
 <br>
 
@@ -48,7 +48,7 @@ Could it be that BTS's search interest on Google somehow correlates to Nongshim'
  - I analyzed the stock performance (basically the close price variations) of Netflix to pick out any glaring price fluctuations that happened.
  - The price fluctuations were normally distributed, which was as expected. So I actually focussed on outliers (very high or low fluctuations) and tried explaining them via search interest trends.
 
-![](https://user-images.githubusercontent.com/31268509/122207041-4fedec00-cebf-11eb-8707-0d1546ae213f.png)
+    ![](https://user-images.githubusercontent.com/31268509/122207041-4fedec00-cebf-11eb-8707-0d1546ae213f.png)
  - I looked at the Google trends data for Stranger Things to locate the time periods when search interest was high.
  - I compared the time periods of extreme price fluctuations and of high search interest to see if they both collided.
 
