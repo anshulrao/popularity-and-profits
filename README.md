@@ -19,7 +19,7 @@ Could it be that BTS's search interest on Google somehow correlates to Nongshim'
 
 #### Summary
 - I downloaded both the stock data for Nongshim and search interest data for BTS.
-- I first carried out exploratory data analysis and plotted simple moving averages and other plots to visualize the reltionship between close price of Nongshim and search interest of BTS.
+- I first carried out exploratory data analysis and plotted simple moving averages and other plots to visualize the relationship between close price of Nongshim and search interest of BTS.
 
     ![](https://user-images.githubusercontent.com/31268509/122208191-a1e34180-cec0-11eb-876b-1cad9570777e.png)
 
