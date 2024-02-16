@@ -25,7 +25,7 @@ Could it be that BTS's search interest on Google somehow correlates to Nongshim'
 
 
     ![](https://user-images.githubusercontent.com/31268509/122205680-284a5400-cebe-11eb-89cf-bea8a1149fc5.png)
-- Seeing apprarent correlation, I did hypothesis testing (null hypothesis: close price of Nongshim and search interest of BTS are uncorrelated) on Pearson correlation coefficient and obtained a p-value of 0. Thus, the null hypothesis was rejected, and the correlation was confirmed to be noncoincidental.
+- Seeing apparent correlation, I did hypothesis testing (null hypothesis: close price of Nongshim and search interest of BTS are uncorrelated) on Pearson correlation coefficient and obtained a p-value of 0. Thus, the null hypothesis was rejected, and the correlation was confirmed to be noncoincidental.
 - I then built a Linear Regression model. I used 70 percent the data to train the model and then predicted the remaining using the model.
 
     ![](https://user-images.githubusercontent.com/31268509/122206039-8ecf7200-cebe-11eb-80c5-016983ec6af3.png)
